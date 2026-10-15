@@ -30,6 +30,7 @@ export const totalFindItAccuracy = () => {
   return totalAccuracy('find it')
 }
 
+
 export const totalFixItAccuracy = () => {
   return totalAccuracy('fix it')
 }
